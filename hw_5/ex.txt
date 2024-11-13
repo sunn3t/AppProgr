@@ -1,0 +1,1 @@
+File: ex.txt | Directory1 size: 26 bytes | Directory2 size: 0 bytes

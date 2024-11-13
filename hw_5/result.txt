@@ -1,0 +1,1 @@
+Файли, які присутні тільки в каталозі C://Users//User//Desktop//shulepa:  3. Наукові обчислення  HW  4. Регулярні вирази  Операційна система  %SystemDrive%  5. РегуляорФайли, які присутні тільки в каталозі C://Users//User//Desktop//Нова папка:  PythonTanya.py  myfile.txt
